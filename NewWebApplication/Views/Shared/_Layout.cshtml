@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Http;
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -25,6 +27,18 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                     </ul>
+                    <div class="form-inline my-2 my-lg-0">
+                        @*<p></p>
+                        @{ 
+                            var session =Convert.ToString(HttpContext.Session.GetString("ActiveUser"));
+                        }
+                             
+                        @if (String.IsNullOrEmpty(HttpContext.Session.GetString("ActiveUser")))
+                        {
+
+                        }*@
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Logout</button>
+                    </div>
                 </div>
             </div>
         </nav>
