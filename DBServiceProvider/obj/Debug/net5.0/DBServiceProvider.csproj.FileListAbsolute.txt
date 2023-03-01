@@ -1,0 +1,12 @@
+C:\Users\vinod\source\repos\Project1\DBServiceProvider\bin\Debug\net5.0\DBServiceProvider.deps.json
+C:\Users\vinod\source\repos\Project1\DBServiceProvider\bin\Debug\net5.0\DBServiceProvider.dll
+C:\Users\vinod\source\repos\Project1\DBServiceProvider\bin\Debug\net5.0\ref\DBServiceProvider.dll
+C:\Users\vinod\source\repos\Project1\DBServiceProvider\bin\Debug\net5.0\DBServiceProvider.pdb
+C:\Users\vinod\source\repos\Project1\DBServiceProvider\obj\Debug\net5.0\DBServiceProvider.csprojAssemblyReference.cache
+C:\Users\vinod\source\repos\Project1\DBServiceProvider\obj\Debug\net5.0\DBServiceProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinod\source\repos\Project1\DBServiceProvider\obj\Debug\net5.0\DBServiceProvider.AssemblyInfoInputs.cache
+C:\Users\vinod\source\repos\Project1\DBServiceProvider\obj\Debug\net5.0\DBServiceProvider.AssemblyInfo.cs
+C:\Users\vinod\source\repos\Project1\DBServiceProvider\obj\Debug\net5.0\DBServiceProvider.csproj.CoreCompileInputs.cache
+C:\Users\vinod\source\repos\Project1\DBServiceProvider\obj\Debug\net5.0\DBServiceProvider.dll
+C:\Users\vinod\source\repos\Project1\DBServiceProvider\obj\Debug\net5.0\ref\DBServiceProvider.dll
+C:\Users\vinod\source\repos\Project1\DBServiceProvider\obj\Debug\net5.0\DBServiceProvider.pdb
